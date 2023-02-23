@@ -84,7 +84,7 @@ h1{
     color:  hsl(35, 77%, 62%);
     cursor: pointer;
 }
-#devider{
+#devider, #devider2{
     border-top: 1px solid hsl(236, 13%, 42%);
     padding-top: 20px;
 }
